@@ -1,0 +1,17 @@
+---
+title: "Day7A-Interactive"
+author: "Karol Paya"
+format: html
+---
+
+```{r}
+library(tidyverse)
+library(palmerpenguins)
+library(lubridate)
+```
+
+```{r}
+
+```
+
+
